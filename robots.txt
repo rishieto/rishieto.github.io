@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rishieto.github.io/rishieto.rishieto
+Sitemap: https://rishieto.github.io/app/rishieto.rishieto
+Sitemap: https://rishieto.github.io/assets/rishieto.rishieto
+Sitemap: https://rishieto.github.io/css/rishieto.rishieto
+Sitemap: https://rishieto.github.io/includes/rishieto.rishieto
+Sitemap: https://rishieto.github.io/item/rishieto.rishieto
+Sitemap: https://rishieto.github.io/src/rishieto.rishieto
